@@ -14,7 +14,7 @@ This project is a clone of the Google Gemini app. It leverages the Google Gemini
 
 
 
-**Table of Contents**
+# Table of Contents
 
 Installation
 
@@ -24,7 +24,7 @@ Features
 
 Technologies Used
 
-**Installation**
+# Installation
 
 To set up and run the Google Gemini Clone app locally, follow these steps:
 
@@ -38,7 +38,7 @@ To set up and run the Google Gemini Clone app locally, follow these steps:
 
 5. Once the server starts, copy the URL from your terminal (usually http://localhost:5173) and paste it into your browser to view the app.
 
-**Usage**
+# Usage
 
 Once the app is up and running, you can:
 
@@ -48,7 +48,7 @@ Once the app is up and running, you can:
 
 3. Enjoy a seamless, interactive user experience with real-time responses from the Gemini API.
 
-**Features**
+# Features
 1. **Interactive Chat Interface:** Users can type questions and get responses, just like in the original Gemini app.
 
 2. **Google Gemini API Integration:** The app is powered by the Google Gemini API for intelligent conversations.
@@ -57,7 +57,7 @@ Once the app is up and running, you can:
 
 4. **Loader**
 
-**Technologies Used**
+# Technologies Used
 1. React JS.
 
 2. **Google Gemini API:** Provides AI-powered conversational abilities.
