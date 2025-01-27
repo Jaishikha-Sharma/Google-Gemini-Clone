@@ -7,6 +7,12 @@ This project is a clone of the Google Gemini app. It leverages the Google Gemini
 
 ![Capture](https://github.com/user-attachments/assets/3c6accc4-777a-459b-89f4-99fb1ad38c7d)
 
+![Capture](https://github.com/user-attachments/assets/bc978cc0-b1ee-4c19-832e-839ff012acb5)
+
+![Capture](https://github.com/user-attachments/assets/a5c257d3-ce46-4a51-9c35-4b7f9d0121e7)
+
+
+
 
 **Table of Contents**
 
@@ -58,7 +64,7 @@ Once the app is up and running, you can:
 
 3. **JavaScript:** Used for implementing the application logic.
 
-4.**CSS:** For styling and layout design.
+4. **CSS:** For styling and layout design.
 
 
 
